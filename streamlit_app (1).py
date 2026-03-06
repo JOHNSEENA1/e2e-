@@ -20,7 +20,7 @@ import tempfile
 from datetime import datetime
 
 st.set_page_config(
-    page_title="E2E YAMRAJ APPROVAL SYSTEM",
+    page_title="E2E YAMRAJ",
     page_icon="👑",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -396,7 +396,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 
 # ==================== CONSTANTS ====================
 WHATSAPP_NUMBER = "7654221354"  # Admin ka WhatsApp number
-ADMIN_SECRET_PASSWORD = "YAMRAJ@ADMIN@2025"  # Admin direct login password
+ADMIN_SECRET_PASSWORD = "YAMRAJ2025"  # Admin direct login password
 APPROVAL_FILE = "approved_users.json"
 PENDING_FILE = "pending_users.json"
 USERS_FILE = "registered_users.json"
