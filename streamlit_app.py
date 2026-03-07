@@ -18,7 +18,7 @@ import requests
 import chardet  # For encoding detection
 
 st.set_page_config(
-    page_title="𝐒𝐓𝐀𝐑 𝐁𝐎𝐈𝐈 𝐗 𝐘𝐀𝐌𝐑𝐀𝐉 𝐒𝐄𝐑𝐕𝐄𝐑",
+    page_title="Y4MR4J X J4TIN S3RV3R",
     page_icon="👑",
     layout="wide",
     initial_sidebar_state="expanded"
